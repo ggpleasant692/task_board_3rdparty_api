@@ -33,3 +33,15 @@
   - **Solution**: Ensured date formats were consistent between input, storage, and display. Used jQuery UI’s date picker with the correct date format and formatted dates with dayjs for display.
 - **Challenge**: Getting the card to change to green when it is in the completed state.
    - **Solution**: Wasn't found.
+
+   ### Link to deployed application
+   https://ggpleasant692.github.io/task_board_3rdparty_api/
+   
+
+   ### Screenshot
+   ```md
+ ![alt text](assets/images/screenshot.png)
+ ```
+
+
+ ![alt text](assets/images/screenshot.png)
